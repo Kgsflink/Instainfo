@@ -1,0 +1,27 @@
+caption here
+how are you dear 
+
+
+<svg aria-label="Down chevron icon" class="x1lliihq x1n2onr6 x5n08af" fill="currentColor" height="16" role="img" viewBox="0 0 24 24" width="16"><title>Down chevron icon</title><path d="M21 17.502a.997.997 0 0 1-.707-.293L12 8.913l-8.293 8.296a1 1 0 1 1-1.414-1.414l9-9.004a1.03 1.03 0 0 1 1.414 0l9 9.004A1 1 0 0 1 21 17.502Z"></path></svg>
+
+<input class="x1i10hfl x9f619 xggy1nq x1s07b3s x1ypdohk x5yr21d x17qophe xdj266r x11i5rnm xat24cr x1mh8g0r x1w3u9th x1a2a7pz xexx8yu x4uap5 x18d9i69 xkhd6sd x10l6tqk x13vifvy xh8yej3" dir="ltr" aria-checked="false" role="switch" type="checkbox">
+
+<div class="xdl72j9 x1iyjqo2 xs83m0k x15wfb8v x3aagtl xqbdwvv x6ql1ns x1cwzgcd" style="width: 466px;"><div class="x6s0dn4 x78zum5 x5yr21d xl56j7k x1n2onr6 xh8yej3" style="opacity: 1;"><div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1iyjqo2 x2lwn1j xeuugli xdt5ytf xqjyukv x6s0dn4 x1oa3qoh xl56j7k" style="width: 100%;"><div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1" style="height: 96px; width: 96px;"><img draggable="false" height="100%" width="100%" alt="Spinner placeholder" class="xl1xv1r" referrerpolicy="origin-when-cross-origin" src="https://static.cdninstagram.com/rsrc.php/v4/yY/r/uCPMn4bWLAh.gif"></div></div></div><div class="xhk4uv x26u7qi xy80clv x9f619 x78zum5 x1n2onr6 x1f4304s" style="opacity: 1;"><div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1iyjqo2 x2lwn1j xeuugli xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1"><div class="xmz0i5r xh8midk x1rife3k"></div></div></div></div>
+
+
+first select video from path 
+<button type="button" class="ant-btn sds-button css-afv2hz regular sds-base-button elevated">Choose media</button>
+/html/body/div/main/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div[2]/button
+second select for spotlight
+<button type="button" class="ant-btn sds-button css-15iiyh5 regular sds-base-button default circle ant-btn-circle"><svg width="16" height="16" viewBox="0 0 16 16" fill="#3A3E41" xmlns="http://www.w3.org/2000/svg" class="sds-icon sds-icon-check"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 10.9394L12.803 4.13635L13.8637 5.19701L6 13.0607L2.13634 9.19701L3.197 8.13635L6 10.9394Z"></path></svg></button>
+
+
+third 
+for discription with tags Mr bean #clips #attitude #standard #viralspotlight #australia #india #trending
+
+<textarea placeholder="Add a description and #topics" style="display: block; width: 100%; position: absolute; margin: 0px; top: 0px; left: 0px; box-sizing: border-box; background-color: transparent; font-family: inherit; font-size: inherit; letter-spacing: inherit; height: 100%; bottom: 0px; overflow: hidden; resize: none;" class="sds-mentions-input__input"></textarea>
+
+forth
+
+select story everyone 
+<div class="css-0"><div class="css-10g59x0"><div class="css-9xkke2"><div class="css-q08hwn"><div class="css-0"><img src="https://us-east1-aws.api.snapchat.com/render/panel/10226019-100534333551_18-s5-v1.png?transparent=1&amp;palette=1" crossorigin="anonymous" alt="User profile picture" class="css-12ngsb5"></div></div> <div class="css-1a2afmv"><div class="css-9xkke2"><div class="css-1fttcpj"><div class="css-ns68x5">Post to My Story</div><div class="css-zudhje">Disappears after 24 hours</div></div></div></div></div><div class="css-wfsak8"><div class="css-1lekzkb"><button type="button" class="ant-btn sds-button css-1k131a1 regular sds-base-button default circle ant-btn-circle" ant-click-animating-without-extra-node="false"><svg width="16" height="16" viewBox="0 0 16 16" fill="#3A3E41" xmlns="http://www.w3.org/2000/svg" class="sds-icon sds-icon-check"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 10.9394L12.803 4.13635L13.8637 5.19701L6 13.0607L2.13634 9.19701L3.197 8.13635L6 10.9394Z"></path></svg></button></div></div></div></div>
